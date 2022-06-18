@@ -1,0 +1,30 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+.jumbotron {
+  background-color: #f9f9f9;
+  padding-top: 2rem;
+}
+.btn {
+  background-color: #cdf0ea;
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+#skills {
+  background-color: #f6c6ea;
+}
+#projects {
+  background-color: #f9f9f9;
+}
+#work {
+  background-color: #f6c6ea;
+}
+#contact {
+  background-color: #f9f9f9;
+}
+section {
+  padding-top: 4rem;
+}
